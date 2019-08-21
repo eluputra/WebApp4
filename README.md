@@ -5,7 +5,7 @@ eluputra@hotmail.com
 
 ASP.Net program for TCSS 431
 
-WebApp4 To add the admin we need to uncoment the line 171 to 173 in Starup.cs
+WebApp4 To add the admin we need to uncoment the line 171 to 173 in Startup.cs
 
 STEP BY STEP:
 1. Run the Program 
