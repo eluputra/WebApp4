@@ -18,8 +18,4 @@ STEP BY STEP:
 8. To avoid any problem comment again 171 to 173 after the admin@admin.com become administrator.
 
 
-user : admin@admin.com
-if it is new databse setup the password that you desire,
-if it is not use my password Final123!
-
 Everything working, shoppingcart, three layer, databases all working as date today 8/21/2019
